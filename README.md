@@ -1,1 +1,1 @@
-WinciBrewHax is based on the popular str2hax and needs only an internet connection. No sd or other required!
+WinciBrewHax is based on the popular Fullmetal5's str2hax and needs only an internet connection. No sd or other required!
